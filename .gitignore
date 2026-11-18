@@ -1,0 +1,9 @@
+﻿.env
+*.env
+logs/
+config/
+plugins/
+sal.txt
+sal_lgpd.txt
+__pycache__/
+*.pyc
